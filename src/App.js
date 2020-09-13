@@ -8,10 +8,10 @@ import AdvCounter from "./components/AdvCounter";
 export default function App() {
   return (
     <div className="App">
-      {/* <Counter/> */}
+      <Counter/>
       {/* <StateHooks2/>  */}
       {/* <Timer/> */}
-      <FetchTodo/>
+      {/* <FetchTodo/> */}
       {/* <AdvCounter/> */}
     </div>
   );
